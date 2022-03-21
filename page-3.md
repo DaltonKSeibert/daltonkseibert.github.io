@@ -1,4 +1,4 @@
-## README.md - This is the Home Page
+## Final Project
 
 **Description:** Create a personal site in markdown that is hosted on GitHub and provides information about you.
 
@@ -23,5 +23,4 @@ The information that you present on the markdown pages is up to you. But, it mus
 * Some text that is italicized.
 * A block of code.
 
-Go To: [Page 2](/page-2.html) for more information.
-
+Go To: [Page 4](/page-4.html) for more information.
